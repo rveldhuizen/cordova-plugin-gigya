@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-gigya",
+  "version": "3.6.1",
+  "description": "Cordova plugin for Gigya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rveldhuizen/cordova-plugin-gigya.git"
+  },
+  "keywords": [
+    "gigya",
+    "cordova",
+    "8.0.0",
+    "plugin"
+  ],
+  "author": "Raymond Veldhuizen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rveldhuizen/cordova-plugin-gigya/issues"
+  },
+  "homepage": "https://github.com/rveldhuizen/cordova-plugin-gigya#readme"
+}
